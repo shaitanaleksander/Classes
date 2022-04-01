@@ -8,9 +8,14 @@ public class Mod {
     protected  int age;
     String nationality;
     private Integer salary;
-}
 
-  class Frog {
+    public static void main(String[] args) {
+
+         short a = 12;
+         short v = 22;
+
+        int i = a + v;
 
 
+    }
 }
